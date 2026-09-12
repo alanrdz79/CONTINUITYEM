@@ -1,0 +1,347 @@
+{
+    "cruz azul": {
+        "ataque": 1.164,
+        "defensa": 1.1704,
+        "partidos": 5
+    },
+    "pumas": {
+        "ataque": 1.4785,
+        "defensa": 1.0849,
+        "partidos": 4
+    },
+    "ajax": {
+        "ataque": 1.54,
+        "defensa": 1.38,
+        "partidos": 1
+    },
+    "groningen": {
+        "ataque": 1.38,
+        "defensa": 1.54,
+        "partidos": 1
+    },
+    "volendam": {
+        "ataque": 1.38,
+        "defensa": 1.38,
+        "partidos": 1
+    },
+    "willem ll": {
+        "ataque": 1.38,
+        "defensa": 1.38,
+        "partidos": 1
+    },
+    "utrecht": {
+        "ataque": 1.62,
+        "defensa": 1.46,
+        "partidos": 1
+    },
+    "hereenveen": {
+        "ataque": 1.46,
+        "defensa": 1.62,
+        "partidos": 1
+    },
+    "fiorentina": {
+        "ataque": 1.276,
+        "defensa": 1.276,
+        "partidos": 1
+    },
+    "atalanta": {
+        "ataque": 1.276,
+        "defensa": 1.276,
+        "partidos": 1
+    },
+    "charlotte": {
+        "ataque": 1.3568,
+        "defensa": 1.1291,
+        "partidos": 3
+    },
+    "new england": {
+        "ataque": 1.5473,
+        "defensa": 1.3809,
+        "partidos": 2
+    },
+    "los angeles galaxy": {
+        "ataque": 1.414,
+        "defensa": 1.414,
+        "partidos": 1
+    },
+    "houston dynamo": {
+        "ataque": 1.414,
+        "defensa": 1.414,
+        "partidos": 1
+    },
+    "liverpool": {
+        "ataque": 1.276,
+        "defensa": 1.276,
+        "partidos": 1
+    },
+    "brentford": {
+        "ataque": 1.276,
+        "defensa": 1.276,
+        "partidos": 1
+    },
+    "roluca": {
+        "ataque": 1.104,
+        "defensa": 1.104,
+        "partidos": 1
+    },
+    "tigres": {
+        "ataque": 1.0074,
+        "defensa": 1.0751,
+        "partidos": 4
+    },
+    "psg": {
+        "ataque": 1.1659,
+        "defensa": 1.2395,
+        "partidos": 3
+    },
+    "niza": {
+        "ataque": 1.1803,
+        "defensa": 1.4203,
+        "partidos": 2
+    },
+    "la galaxy": {
+        "ataque": 1.4181,
+        "defensa": 1.2768,
+        "partidos": 3
+    },
+    "real salt lake": {
+        "ataque": 1.414,
+        "defensa": 1.494,
+        "partidos": 1
+    },
+    "seattle": {
+        "ataque": 1.2827,
+        "defensa": 1.6576,
+        "partidos": 3
+    },
+    "inter miami": {
+        "ataque": 1.5089,
+        "defensa": 1.1688,
+        "partidos": 4
+    },
+    "chicago fire": {
+        "ataque": 1.334,
+        "defensa": 1.334,
+        "partidos": 1
+    },
+    "whitecaps": {
+        "ataque": 1.334,
+        "defensa": 1.334,
+        "partidos": 1
+    },
+    "toluca": {
+        "ataque": 1.1236,
+        "defensa": 1.129,
+        "partidos": 4
+    },
+    "crystal palace": {
+        "ataque": 1.276,
+        "defensa": 1.356,
+        "partidos": 1
+    },
+    "arsenal": {
+        "ataque": 1.356,
+        "defensa": 1.276,
+        "partidos": 1
+    },
+    "mexico": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "sudafrica": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "real oviedo": {
+        "ataque": 1.196,
+        "defensa": 1.276,
+        "partidos": 1
+    },
+    "alaves": {
+        "ataque": 1.276,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "barcelona": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "": {
+        "ataque": 0.4,
+        "defensa": 0.4,
+        "partidos": 69
+    },
+    "phidadelphia": {
+        "ataque": 1.334,
+        "defensa": 1.334,
+        "partidos": 1
+    },
+    "west ham": {
+        "ataque": 1.436,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "leeds": {
+        "ataque": 1.196,
+        "defensa": 1.436,
+        "partidos": 1
+    },
+    "\u00c3\u00b1": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "necaxa": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "atlante": {
+        "ataque": 1.1222,
+        "defensa": 1.0545,
+        "partidos": 5
+    },
+    "c:\\users\\alanr\\ae_ecosistema\\continuityem\\.venv\\scripts\\python.exe c:/users/alanr/ae_ecosistema/continuityem/cerebelliumv4.py": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "pachuca": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "queretaro": {
+        "ataque": 1.1003,
+        "defensa": 1.1803,
+        "partidos": 2
+    },
+    "nashville": {
+        "ataque": 1.414,
+        "defensa": 1.334,
+        "partidos": 1
+    },
+    "atlanta united": {
+        "ataque": 1.3073,
+        "defensa": 1.6209,
+        "partidos": 2
+    },
+    "america": {
+        "ataque": 1.2539,
+        "defensa": 1.1803,
+        "partidos": 2
+    },
+    "puebla": {
+        "ataque": 1.1803,
+        "defensa": 1.2603,
+        "partidos": 2
+    },
+    "chivas": {
+        "ataque": 1.1003,
+        "defensa": 1.1003,
+        "partidos": 2
+    },
+    "juarez": {
+        "ataque": 1.0923,
+        "defensa": 1.4123,
+        "partidos": 3
+    },
+    "tijuana": {
+        "ataque": 0.9313,
+        "defensa": 0.9313,
+        "partidos": 4
+    },
+    "leon": {
+        "ataque": 1.0123,
+        "defensa": 1.0123,
+        "partidos": 3
+    },
+    "san luis": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "new york": {
+        "ataque": 1.334,
+        "defensa": 1.334,
+        "partidos": 1
+    },
+    "sj earthquakes": {
+        "ataque": 1.414,
+        "defensa": 1.414,
+        "partidos": 1
+    },
+    "los angeles fc": {
+        "ataque": 1.654,
+        "defensa": 1.334,
+        "partidos": 1
+    },
+    "sporting kc": {
+        "ataque": 1.334,
+        "defensa": 1.654,
+        "partidos": 1
+    },
+    "new york rb": {
+        "ataque": 1.334,
+        "defensa": 1.494,
+        "partidos": 1
+    },
+    "columbus crew": {
+        "ataque": 1.494,
+        "defensa": 1.414,
+        "partidos": 1
+    },
+    "cincinnati": {
+        "ataque": 1.414,
+        "defensa": 1.494,
+        "partidos": 1
+    },
+    "montreal": {
+        "ataque": 1.334,
+        "defensa": 1.414,
+        "partidos": 1
+    },
+    "atletico san luis": {
+        "ataque": 1.276,
+        "defensa": 1.276,
+        "partidos": 1
+    },
+    "atletico de san luis": {
+        "ataque": 1.196,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "new york city": {
+        "ataque": 1.196,
+        "defensa": 1.356,
+        "partidos": 1
+    },
+    "santos": {
+        "ataque": 1.356,
+        "defensa": 1.196,
+        "partidos": 1
+    },
+    "cambuur": {
+        "ataque": 1.38,
+        "defensa": 1.54,
+        "partidos": 1
+    },
+    "excelsior": {
+        "ataque": 1.54,
+        "defensa": 1.38,
+        "partidos": 1
+    },
+    "telstar": {
+        "ataque": 1.46,
+        "defensa": 1.62,
+        "partidos": 1
+    },
+    "sparta rotterdam": {
+        "ataque": 1.62,
+        "defensa": 1.46,
+        "partidos": 1
+    }
+}

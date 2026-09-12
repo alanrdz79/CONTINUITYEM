@@ -1,0 +1,122 @@
+{
+  "liga mx (apertura)": [
+    {
+      "mercado": "1",
+      "stake": 52.03,
+      "cuota": 4.88,
+      "gano": false,
+      "pnl": -52.03
+    },
+    {
+      "mercado": "2",
+      "stake": 62.12,
+      "cuota": 9.0,
+      "gano": true,
+      "pnl": 496.96,
+      "predictor_lider": "ONLINE"
+    },
+    {
+      "mercado": "OU2.5_OVER",
+      "stake": 17.21,
+      "cuota": 2.5,
+      "gano": true,
+      "pnl": 25.82,
+      "predictor_lider": null
+    },
+    {
+      "mercado": "1",
+      "stake": 97.96,
+      "cuota": 6.25,
+      "gano": false,
+      "pnl": -97.96,
+      "predictor_lider": "ONLINE"
+    },
+    {
+      "mercado": "1",
+      "stake": 96.79,
+      "cuota": 6.25,
+      "gano": false,
+      "pnl": -96.79,
+      "predictor_lider": "ONLINE",
+      "tacde_activo": true
+    }
+  ],
+  "concacaf champions cup": [
+    {
+      "mercado": "2",
+      "stake": 61.28,
+      "cuota": 5.12,
+      "gano": true,
+      "pnl": 252.47,
+      "predictor_lider": "RF"
+    }
+  ],
+  "eredivisie": [
+    {
+      "mercado": "2",
+      "stake": 11.72,
+      "cuota": 3.1,
+      "gano": true,
+      "pnl": 24.61,
+      "predictor_lider": "RF"
+    }
+  ],
+  "liga_mx_apertura": [
+    {
+      "mercado": "1",
+      "stake": 23.52,
+      "cuota": 3.05,
+      "gano": false,
+      "pnl": -23.52,
+      "predictor_lider": "ONLINE",
+      "tacde_activo": false
+    },
+    {
+      "mercado": "OU2.5_UNDER",
+      "stake": 15.64,
+      "cuota": 1.95,
+      "gano": true,
+      "pnl": 14.86,
+      "predictor_lider": null,
+      "tacde_activo": false
+    },
+    {
+      "mercado": "2",
+      "stake": 13.47,
+      "cuota": 3.6,
+      "gano": false,
+      "pnl": -13.47,
+      "predictor_lider": "ONLINE",
+      "tacde_activo": false
+    },
+    {
+      "mercado": "OU2.5_UNDER",
+      "stake": 31.41,
+      "cuota": 2.1,
+      "gano": true,
+      "pnl": 34.55,
+      "predictor_lider": null,
+      "tacde_activo": false
+    }
+  ],
+  "mls": [
+    {
+      "mercado": "2",
+      "stake": 24.38,
+      "cuota": 4.6,
+      "gano": false,
+      "pnl": -24.38,
+      "predictor_lider": "RF",
+      "tacde_activo": false
+    },
+    {
+      "mercado": "OU2.5_UNDER",
+      "stake": 15.81,
+      "cuota": 2.5,
+      "gano": false,
+      "pnl": -15.81,
+      "predictor_lider": null,
+      "tacde_activo": false
+    }
+  ]
+}
